@@ -32,7 +32,7 @@ disqus-identifier: shijupk-github-io # Add your shortname for Disqus Comment. Fo
 google-analytics: "UA-163831052-1" # Add your identifier. For example UA-99631805-1.
 
 # Newsletter
-mailchimp: "https://github.us4.list-manage.com/subscribe/post?u=79747205163f508c3b7fb94f8&amp;id=cf0e1b3ed1" # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
+mailchimp: "github.us4.list-manage.com/subscribe/post?u=79747205163f508c3b7fb94f8&amp;id=cf0e1b3ed1" # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
 
 # Build settings
 markdown: kramdown
