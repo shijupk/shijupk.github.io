@@ -26,6 +26,13 @@
   }
 }
 
+.post__content {
+  line-height: 27px;
+  font-size: 16px;
+  color: $gray;
+
+}
+
 .post-tags__tag {
   &:after {
     content: ",";

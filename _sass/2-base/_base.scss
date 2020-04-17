@@ -5,7 +5,13 @@
 body {
   font-family: $base-font-family;
   font-size: $base-font-size;
+  font-variant-ligatures: normal;
   line-height: $base-line-height;
+  font-variant-ligatures: normal;
+  font-variant-caps: normal;
+  font-variant-numeric: normal;
+  font-variant-east-asian: normal;
+  letter-spacing: 0.5px;
   color: $text-color;
   background-color: $background-color;
   -webkit-font-smoothing: antialiased;
